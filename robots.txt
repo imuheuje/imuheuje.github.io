@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://imuheuje.github.io/Cdk/sitemap_index.txt
+Sitemap: https://imuheuje.github.io/DwR/sitemap_index.txt
+Sitemap: https://imuheuje.github.io/coG/sitemap_index.txt
+Sitemap: https://imuheuje.github.io/gxw/sitemap_index.txt
